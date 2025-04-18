@@ -47,6 +47,7 @@ My background consists of being a maritime professional. My interest and passion
 | HODL | Apr 2024 | [Code4rena](https://code4rena.com/audits/2024-04-hodl-invitational) | #1 🏆 |
 | zkSync Era | Mar 2024 | [Code4rena](https://code4rena.com/audits/2024-03-zksync-era) | #9 |
 | Wise Lending | Mar 2024 | [Code4rena](https://code4rena.com/audits/2024-03-wise-lending) | #3 🏆 |
+| Pear Protocol | Feb 2024 | Private Engagement | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PearLabs-V0.9-Security-Review.pdf) |
 | Blast | Jan 2024 | [Cantina](https://cantina.xyz/code/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) | #11 |
 | morpho-blue | Nov 2023 | [Cantina](https://cantina.xyz/code/d86b7f95-e574-4092-8ea2-78dcac2f54f1) | #14 |
 | Brahma | Oct 2023 | [Code4rena](https://code4rena.com/audits/2023-10-brahma) | #12 |
