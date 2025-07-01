@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://images.alphacoders.com/695/thumb-1920-69561.jpg" alt="Kanagawa Waves Banner" width="450px" style="border-radius:12px; max-width:100%;" />
 </p>
 
@@ -7,11 +7,8 @@
   Judge @ <a href="https://code4rena.com">Code4rena</a> · <a href="https://cantina.xyz/">Cantina</a> ||
   Researcher @
   <a href="https://www.zenith.security/">Zenith</a>,
-  <a href="https://www.oaksecurity.io/">Oak</a>,
-  <a href="https://www.trust-security.xyz/">Trust Security</a>
+  <a href="https://www.oaksecurity.io/">Oak</a>
 </h3>
-
-
 
 ##  About Me
 
@@ -28,8 +25,6 @@ My background consists of being a maritime professional. My interest and passion
   - <img src="https://cdn.prod.website-files.com/6741f9996a3c2c0fa84c2df0/678fc5b715d04efdf209cf7a_pictogram-brand-white.svg" alt="Cantina Logo" height="20" style="vertical-align: middle;"/> - Judge at [Cantina](https://cantina.xyz/)
   - <img src="https://cdn.prod.website-files.com/678a0c632f0d4c0da9dc074d/678a0c632f0d4c0da9dc07cb_Logo.svg" alt="Zenith Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Zenith](https://www.zenith.security/)
   - <img src="https://cdn.prod.website-files.com/645954cb638e932c6cd1949a/64596abc1b8dbb2b2e122098_oak-logo-white.svg" alt="Oak Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Oak](https://www.oaksecurity.io/)
-  - <img src="https://static.wixstatic.com/media/a805f3_911b0fb0c064408bacecb7253f077e82~mv2.png/v1/fill/w_138,h_138,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a805f3_911b0fb0c064408bacecb7253f077e82~mv2.png" alt="Trust Security Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Trust Security](https://www.trust-security.xyz/)
-
 
 <br>
 
@@ -38,60 +33,56 @@ My background consists of being a maritime professional. My interest and passion
 - Telegram  :  [s0rryn0tsorry](https://t.me/s0rryn0tsorry)
 
 ---
-## Audit History
+## Notable Experience
 
-| Protocol | Date | Platform | Ranking |
-|----------|------|----------|---------|
-| Krystal DeFi | Jun 2024 | [Code4rena](https://code4rena.com/audits/2024-06-krystal-defi-invitational) | #1 🏆 |
-| Canto | May 2024 | [Code4rena](https://code4rena.com/audits/2024-05-canto) | #4 🏆 |
-| HODL | Apr 2024 | [Code4rena](https://code4rena.com/audits/2024-04-hodl-invitational) | #1 🏆 |
-| zkSync Era | Mar 2024 | [Code4rena](https://code4rena.com/audits/2024-03-zksync-era) | #9 |
-| Wise Lending | Mar 2024 | [Code4rena](https://code4rena.com/audits/2024-03-wise-lending) | #3 🏆 |
-| Pear Protocol | Feb 2024 | Private Engagement | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PearLabs-V0.9-Security-Review.pdf) |
-| Blast | Jan 2024 | [Cantina](https://cantina.xyz/code/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) | #11 |
-| morpho-blue | Nov 2023 | [Cantina](https://cantina.xyz/code/d86b7f95-e574-4092-8ea2-78dcac2f54f1) | #14 |
-| Brahma | Oct 2023 | [Code4rena](https://code4rena.com/audits/2023-10-brahma) | #12 |
-| Beam | Jul 2023 | [Sherlock](https://audits.sherlock.xyz/contests/beam) | #11 |
-| Canto Identity Protocol | Jan 2023 | [Code4rena](https://code4rena.com/audits/2023-01-canto-identity-protocol) | #13 |
-| Timeswap | Jan 2023 | [Code4rena](https://code4rena.com/audits/2023-01-timeswap) | #4 🏆 |
-| Canto | Nov 2022 | [Code4rena](https://code4rena.com/contests/2022-11-canto) | #4 🏆 |
-| Astaria | Oct 2022 | [Sherlock](https://audits.sherlock.xyz/contests/astaria) | #13 |
-| Mycelium | Oct 2022 | [Sherlock](https://audits.sherlock.xyz/contests/mycelium) | #9 🏆 |
-| VTVL | Sep 2022 | [Code4rena](https://code4rena.com/contests/2022-09-vtvl) | 🥈 2nd Place |
-| FEI and TRIBE Redemption | Sep 2022 | [Code4rena](https://code4rena.com/contests/2022-09-fei-and-tribe-redemption) | #10 |
-| Canto Dex Oracle | Sep 2022 | [Code4rena](https://code4rena.com/contests/2022-09-canto-dex-oracle) | #6 🏆 |
-| Nouns Builder | Sep 2022 | [Code4rena](https://code4rena.com/contests/2022-09-nouns-builder) | #40 |
-| Sentiment | Aug 2022 | [Sherlock](https://audits.sherlock.xyz/contests/sentiment) | #17 |
-| Olympus DAO | Aug 2022 | [Code4rena](https://code4rena.com/contests/2022-08-olympus-dao) | #34 |
-| Fractional v2 | Jul 2022 | [Code4rena](https://code4rena.com/contests/2022-07-fractional-v2) | #38 |
-| Badger-Vested-Aura | Jun 2022 | [Code4rena](https://code4rena.com/contests/2022-06-badger-vested-aura) | #10 |
-| Connext Amarok | Jun 2022 | [Code4rena](https://code4rena.com/contests/2022-06-connext-amarok) | #48 |
-| Notional x Index Coop | Jun 2022 | [Code4rena](https://code4rena.com/contests/2022-06-notional-x-index-coop) | #15 |
-| veToken Finance | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-vetoken-finance) | #12 |
-| Rubicon | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-rubicon) | #44 |
-| OpenSea Seaport | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-opensea-seaport) | #30 |
-| Sturdy | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-sturdy) | #6 🏆 |
-| Aura Finance | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-aura-finance) | #44 |
-| Enso Finance | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-enso-finance) | #7 🏆 |
-| FactoryDAO | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-factorydao) | #28 |
-| Cudos | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-cudos) | 🥈 2nd Place |
-| Forgotten Runes Warrior Guild | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-forgotten-runes-warrior-guild) | #7 🏆 |
-| bunker.finance | May 2022 | [Code4rena](https://code4rena.com/contests/2022-05-bunker-finance) | #4 🏆 |
-| Mimo DeFi | Apr 2022 | [Code4rena](https://code4rena.com/contests/2022-04-mimo-defi) | #18 |
-| AbraNFT | Apr 2022 | [Code4rena](https://code4rena.com/contests/2022-04-abranft) | #52 |
-| Backd | Apr 2022 | [Code4rena](https://code4rena.com/contests/2022-04-backd) | #23 |
-| xTRIBE | Apr 2022 | [Code4rena](https://code4rena.com/contests/2022-04-xtribe) | #13 |
-| Badger Citadel | Apr 2022 | [Code4rena](https://code4rena.com/contests/2022-04-badger-citadel) | #27 |
-| JPEG'd | Apr 2022 | [Code4rena](https://code4rena.com/contests/2022-04-jpegd) | #49 |
-| Duality Focus | Apr 2022 | [Code4rena](https://code4rena.com/contests/2022-04-duality-focus) | #9 🏆 |
-| Backed Protocol | Apr 2022 | [Code4rena](https://code4rena.com/contests/2022-04-backed-protocol) | #27 |
-| Paladin | Mar 2022 | [Code4rena](https://code4rena.com/contests/2022-03-paladin) | #30 |
-| LI.FI | Mar 2022 | [Code4rena](https://code4rena.com/contests/2022-03-lifi) | #27 |
-| prePO | Mar 2022 | [Code4rena](https://code4rena.com/contests/2022-03-prepo) | #28 |
-| JPYC | Feb 2022 | [Code4rena](https://code4rena.com/contests/2022-02-jpyc) | #23 |
-| PoolTogether TWAB Delegator | Feb 2022 | [Code4rena](https://code4rena.com/contests/2022-02-pooltogether-twab-delegator) | #15 |
-| Hubble | Feb 2022 | [Code4rena](https://code4rena.com/contests/2022-02-hubble) | #27 |
-| ElasticSwap | Jan 2022 | [Code4rena](https://code4rena.com/contests/2022-01-elasticswap) | #23 |
+
+### Contests
+
+| Project                             | Platform      | Date        | Rank  | Focus                                 |
+|-------------------------------------|---------------|-------------|-------|----------------------------------------|
+| Krystal DeFi                        | Code4rena     | Jun 2024    | #1    | Decentralized Trading                  |
+| Magma Finance                       | Secure3       | Aug 2024    | #2    | Decentralized Trading                  |
+| Canto                               | Code4rena     | May 2024    | #4    | L1 Blockchain                          |
+| HODL                                | Code4rena     | Apr 2024    | #1    | Staking Protocol                       |
+| zkSync Era                          | Code4rena     | Mar 2024    | #9    | L2                                     |
+| Wise Lending                        | Code4rena     | Mar 2024    | #3    | Lending                                |
+| Blast                               | Cantina       | Jan 2024    | #11   | L2                                     |
+| Timeswap                            | Code4rena     | Jan 2023    | #4    | Lending without Pricing                |
+| Canto                               | Code4rena     | Nov 2022    | #4    | L2 Blockchain                          |
+| Mycelium                            | Sherlock      | Oct 2022    | #9    | Exchange Derivatives                   |
+| VTVL                                | Code4rena     | Sep 2022    | #2    | Token Launch Platform                  |
+| FEI and TRIBE Redemption            | Code4rena     | Sep 2022    | #10   | DeFi Primitive                         |
+| Canto Dex Oracle                    | Code4rena     | Sep 2022    | #6    | Oracle for L2                          |
+| Badger-Vested-Aura                  | Code4rena     | Jun 2022    | #10   | Bringing BTC to DeFi                   |
+| Sturdy                              | Code4rena     | May 2022    | #6    | Interest-Free Lending                  |
+| Enso Finance                        | Code4rena     | May 2022    | #7    | Social Trading                         |
+| Cudos                               | Code4rena     | May 2022    | #2    | L2 for Cloud Computing                 |
+| Forgotten Runes Warrior Guild       | Code4rena     | May 2022    | #7    | Dutch Auction                          |
+| bunker.finance                      | Code4rena     | May 2022    | #4    | Compound Fork                          |
+| Duality Focus                       | Code4rena     | Apr 2022    | #9    | Money Market                           |
+
+### Private / Other Engagements
+
+| Project | Firm | Date | Focus | Report |
+|:--------|:-----|:-----|:------|:-------|
+| Size Credit | Hashlock | Jun 2025 | Fixed-rate lending marketplace | |
+| Indx Finance | Hashlock | Jun 2025 | Fully collateralized on-chain token CTFs | |
+| LiveArt | Hashlock | Jun 2025 | RWA Art NFT trading | |
+| CruTrade | Hashlock | Jun 2025 | Decentralized trading of RWAs, focused on vinery | |
+| SushiSwap | Hashlock | Jun 2025 | AMM Contracts on Kadena Network | |
+| Moria Protocol | Hashlock | Jun 2025 | DeFi on Bitcoin Cash | |
+| Spectral, On-Chain Agents | Zenith | May 2025 | Onchain Agents | |
+| Molecula Carbon Solution | Hashlock | May 2025 | Crosschain Yielding in Stables | |
+| Wal8 | Hashlock | Apr 2025 | Socialized Collectibles and Branding | |
+| Spectral, Profit Distribution | Zenith | Apr 2025 | Profit and reward distribution | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/recDarNYWNEAFfiUK/fldzYl5rFcQW9s1pI/attdyhYcc19RProc3) |
+| HyperSwell, LayerZero Integration | Zenith | Mar 2025 | LayerZero Integration | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/recBE6owRJjgKSYMK/fldzYl5rFcQW9s1pI/attsJg7fKcjya7c3c) |
+| Spectral, On-chain Agents | Zenith | Feb 2025 | Name Service, AI Agents | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attbngvMmPm8UdU23), [2](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attf17BNI51qZKffa), [3](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attGbCQsAVz9EpkXJ) |
+| Holograph, GAINS Token | Zenith | Jan 2025 | Token Management | |
+| Pear Protocol | Shieldify Sec | Jan 2024 | Decentralized Trading over GMX | [1](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PearLabs-V0.9-Security-Review.pdf) |
+| Xaya (Democrit Crit) | Oak Security | May 2023 | Onchain Game | |
+| Minty | Private | Apr 2023 | Onchain Collectibles | |
+| TopDex | Private | Mar 2023 | AMM with Exotic Fee Structures | |
+| Tropyverse | Private | Mar 2023 | Metaverse Project | |
 
 
 ---
@@ -101,7 +92,6 @@ My background consists of being a maritime professional. My interest and passion
 - **Security Reviews:** For security reviews and security consulting, please reach out: 
 - X : [0xSorryNotSorry](https://x.com/0xSorryNotSorry) 
 - Telegram :  [s0rryn0tsorry](https://t.me/s0rryn0tsorry)
-
 
 <p>
   <a href="https://x.com/0xSorryNotSorry"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
